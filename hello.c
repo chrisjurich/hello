@@ -1,3 +1,10 @@
+/*
+ * 2021/08/26
+ * Author: Chris Jurich
+ * email: cjurich2@huskers.unl.edu
+ * Description: Hello world program for practicing git.
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 
